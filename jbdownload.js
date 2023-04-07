@@ -16,7 +16,7 @@ variable("id", {
                 fileNames: true,
                 directoryNames: true,
                 exactString: true
-            })
+            }, a)
         })
     })
 
